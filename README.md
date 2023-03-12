@@ -3,7 +3,6 @@
 ## Goal
 The goal of this project is to create and test a Machine Learning model and to deploy it with Flask
 
-## Steps
 # Run without docker
 To run it, simply follow the following instructions:
 1. Install dependencies using `pip install -r requirements.txt`
